@@ -9,7 +9,7 @@ classes: wide
 
 Hi, I'm Thierry. I am a PhD student in a joint program at Université de Sherbrooke (Canada) and Institut National des Sciences Appliquées (INSA) de Lyon (France). I work in the Videos & Images Theory and Analytics Laboratory (VITAL) and Center for Research in Acquisition and Signal Processing for Health (CREATIS) labs. 
 
-My current work focuses on deep learning applied to medical image analysis. My current projet is about the estimation of the deformation of the heart in cardiac ultrasound. I have previously worked on segmentation with a focus on uncertainty estimation. 
+My current work focuses on deep learning applied to medical image analysis. My current project is about the estimation of the deformation of the heart in cardiac ultrasound. I have previously worked on segmentation with a focus on uncertainty estimation. 
 
 <h2>Featured Work</h2>
 
@@ -38,7 +38,7 @@ My current work focuses on deep learning applied to medical image analysis. My c
 
     <figure class="fw-figure">
       <img src="{{ '/assets/simulation.gif' | relative_url }}" alt="Method overview">
-      <figcaption>Example of videos generated with an previous simulation pipeline (Evain et al., IEEE TMI 2022) and our proposed simulation pipeline. Notice the difference in speckle paterns and realistic motion.</figcaption>
+      <figcaption>Example of videos generated with a previous simulation pipeline (Evain et al., IEEE TMI 2022) and our proposed simulation pipeline. Notice the difference in speckle patterns and realistic motion.</figcaption>
     </figure>
 
     <p class="fw-links">
@@ -108,7 +108,7 @@ My current work focuses on deep learning applied to medical image analysis. My c
 
       <figure class="fw-figure">
         <img src="{{ '/assets/crisp.png' | relative_url }}" alt="Method overview">
-        <!-- <figcaption>Overview of the method for training [top] and inference [bottom].</figcaption> -->
+        <figcaption>Overview of the method for training [top] and inference [bottom].</figcaption>
       </figure>
 
       <p class="fw-links">
