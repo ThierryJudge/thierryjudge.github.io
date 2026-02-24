@@ -109,3 +109,23 @@
 /* when the main details is open */
 .fw-item[open] > summary .fw-more { display: none; }
 .fw-item[open] > summary .fw-less { display: inline; }
+
+
+.chips{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin: 0.5rem 0 0.75rem;
+}
+
+.chip{
+  display:inline-block;
+  padding: 6px 12px;          /* smaller */
+  border-radius: 9999px;
+  border: 1px solid rgba(120, 120, 255, 0.35);
+  background: rgba(20, 26, 46, 0.25);
+  font-size: 1rem;            /* same as regular text */
+  font-weight: 400;           /* normal weight */
+  line-height: 1.2;
+  white-space: nowrap;
+}

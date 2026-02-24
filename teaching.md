@@ -17,7 +17,7 @@ Participate in organisation of the summer school, help prepare hands-on sessions
 ### [PMC - Projet majeur de conception](https://www.usherbrooke.ca/admission/fiches-cours/PMC660?fp=500)
 **Project advisor** - Summer 2025, Winter 2026.
 
-Advise student groups working on multidisciplinary (computer, electrical and mechanical engineering) end of degree projects, providing guidance on topics such as artificial intelligence and image processing
+Advise student groups working on multidisciplinary (computer, electrical and mechanical engineering) end of degree projects, providing guidance on topics such as artificial intelligence and image processing.
 
 
 ### [IFT603 - Techniques d'apprentissage](https://www.usherbrooke.ca/admission/fiches-cours/IFT603)

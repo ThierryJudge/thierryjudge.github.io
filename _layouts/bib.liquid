@@ -116,24 +116,19 @@
           {% endunless %}
         {%- endfor -%}
         {%- assign more_authors_show = more_authors_show | regex_replace: '([*∗†‡§¶‖&^]+)', '<sup>\1</sup>' -%}
-        , and
+        , 
         <span
           class="more-authors"
           title="click to view {{ more_authors_hide }}"
           onclick="
               var element = $(this);
               element.attr('title', '');
-              var more_authors_text = element.text() == '{{ more_authors_hide }}' ? '{{ more_authors_show }}' : '{{ more_authors_hide }}';
-              var cursorPosition = 0;
-              var textAdder = setInterval(function(){
-                element.html(more_authors_text.substring(0, cursorPosition + 1));
-                if (++cursorPosition == more_authors_text.length){
-                  clearInterval(textAdder);
-                }
-            }, '{{ site.more_authors_animation_delay }}');
+              var more_authors_text = element.text() == '<i>et al.</i>' ? '{{ more_authors_show }}' : '<i>et al.</i>';
+              element.html(more_authors_text);
           "
+          style="cursor: pointer;"
         >
-          {{- more_authors_hide -}}
+          <i>et al.</i>
         </span>
       {% endif %}
       {% if entry.annotation %}

@@ -11,6 +11,18 @@ Hi, I'm Thierry. I am a PhD student in a joint program at Université de Sherbro
 
 My current work focuses on deep learning applied to medical image analysis. My current project is about the estimation of the deformation of the heart in cardiac ultrasound. I have previously worked on segmentation with a focus on uncertainty estimation. 
 
+
+#### Interests and expertise 
+
+<div class="chips">
+  <span class="chip">Uncertainty Estimation</span>
+  <span class="chip">Point Tracking</span>
+  <span class="chip">Segmentation</span>
+  <span class="chip">Medical Image Analysis</span>
+  <span class="chip">Cardiac Ultrasound</span>
+</div>
+
+
 <h2>Featured Work</h2>
 
 <div class="featured-work">
@@ -119,4 +131,8 @@ My current work focuses on deep learning applied to medical image analysis. My c
 </details>
 
 
+
+<h2>Other</h2>
+
+When I am not working towards my PhD, I play soccer, run and do weightlifting. In particular, I was a member of the Vert et Or soccer team at Sherbrooke University for four years. 
 
