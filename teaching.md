@@ -9,7 +9,7 @@ classes: wide
 
 ### [Summer school on deep learning for medical imaging](https://event.fourwaves.com/dlmi2026/pages)
 <p style="margin-bottom: 0;"><strong>Scientific committee member</strong> - 2025 to 2026 </p>
-<p style="margin-bottom: 0;"><strong>Hands-on supervisor and teaching assistant</strong> - 2024 to 2026 </p>
+<p style="margin-bottom: 0;"><strong>Hands-on supervisor and instructor</strong> - 2024 to 2026 </p>
 
 Participate in organisation of the summer school, help prepare hands-on sessions and help attendees during these sessions.
 

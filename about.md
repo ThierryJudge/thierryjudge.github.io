@@ -15,10 +15,11 @@ My current work focuses on deep learning applied to medical image analysis. My c
 #### Interests and expertise 
 
 <div class="chips">
+  <span class="chip">Deep Learning</span>
+  <span class="chip">Medical image analysis</span>
   <span class="chip">Uncertainty Estimation</span>
   <span class="chip">Point Tracking</span>
   <span class="chip">Segmentation</span>
-  <span class="chip">Medical Image Analysis</span>
   <span class="chip">Cardiac Ultrasound</span>
 </div>
 
